@@ -1,4 +1,4 @@
-# <div align="center">  Firebase Auth - Email & Password </div>
+# <div align="center">  Flutter Bloc - Cubit  </div>
 
 <div align="center">
   
